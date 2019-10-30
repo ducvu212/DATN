@@ -1,0 +1,7 @@
+#Sun Oct 27 00:36:26 ICT 2019
+base.0=/Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/build/intermediates/transforms/dexMerger/dev/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/build/intermediates/transforms/dexMerger/dev/release/0

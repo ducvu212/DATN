@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/cameraroll/android/@react-native-community_cameraroll.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/cameraroll/android/@react-native-community_cameraroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/android-@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android/android-@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-community/cameraroll/android/android-@react-native-community_cameraroll.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-community/cameraroll/android/android-@react-native-community_cameraroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-background-timer/android/android-react-native-background-timer.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-background-timer/android/android-react-native-background-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/android-react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/android-react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-cardview/android/android-react-native-cardview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-cardview/android/android-react-native-cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-config/android/android-react-native-config.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-config/android/android-react-native-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info/android/android-react-native-device-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info/android/android-react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fast-image/android/android-react-native-fast-image.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/android-react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-resizer/android/android-react-native-image-resizer.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-resizer/android/android-react-native-image-resizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-keychain/android/android-react-native-keychain.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-keychain/android/android-react-native-keychain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/android-react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/android-react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/android-react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/android-react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-touch-id/android/android-react-native-touch-id.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-touch-id/android/android-react-native-touch-id.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-navigation/lib/android/app/app-react-native-navigation.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-navigation/lib/android/app/app-react-native-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eKYC.iml" filepath="$PROJECT_DIR$/eKYC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-background-timer/android/react-native-background-timer.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-background-timer/android/react-native-background-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-cardview/android/react-native-cardview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-cardview/android/react-native-cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-config/android/react-native-config.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-config/android/react-native-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-device-info/android/react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fast-image/android/react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-resizer/android/react-native-image-resizer.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-resizer/android/react-native-image-resizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-keychain/android/react-native-keychain.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-keychain/android/react-native-keychain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-navigation/lib/android/app/react-native-navigation.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-navigation/lib/android/app/react-native-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-permissions/android/react-native-permissions.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-permissions/android/react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android/react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-svg/android/react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-thumbnail/android/react-native-thumbnail.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-thumbnail/android/react-native-thumbnail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-touch-id/android/react-native-touch-id.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-touch-id/android/react-native-touch-id.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-video/android-exoplayer/react-native-video.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-video/android-exoplayer/react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-webview/android/react-native-webview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-webview/android/react-native-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/rn-fetch-blob/android/rn-fetch-blob.iml" filepath="$PROJECT_DIR$/../node_modules/rn-fetch-blob/android/rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

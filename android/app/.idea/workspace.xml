@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14d17dcb-5a12-4d72-abe5-7bf2c3eae224" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/../.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-fast-image/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-background-timer/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/cameraroll/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-device-info/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-config/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/@react-native-community/async-storage/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/apk_list/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/assets/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/blame/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/bundle_manifest/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/compatible_screen_manifest/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant_app_manifest/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/instant_run_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/merged_assets/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/metadata_application_id/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/metadata_feature_manifest/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/prebuild/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/processed_res/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/signing_config/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/build/reports/" />
+    <ignored path="$PROJECT_DIR$/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-camera/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-svg/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-splash-screen/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/rn-fetch-blob/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-keychain/android/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/generated/not_namespaced_r_class_sources/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/generated/source/r/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/aapt_friendly_merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/annotation_processor_list/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/check_manifest_result/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/compile_only_not_namespaced_r_class_jar/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/intermediate-jars/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/javac/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/library_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/merged_manifests/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/public_res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/shader_assets/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/tmp/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/../../node_modules/react-native-navigation/lib/android/app/build/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="DRGGAM1860637695" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="135" column="57" selection-start-line="135" selection-start-column="57" selection-end-line="135" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Downloads/my_key_store" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="160" />
+    <option name="y" value="120" />
+    <option name="width" value="960" />
+    <option name="height" value="583" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eKYC" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$" />
+    <property name="ExportApk.BuildVariants" value="productionRelease" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="device.picker.selection" value="Nexus_6_API_27" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Build Variants" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.3.0" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14d17dcb-5a12-4d72-abe5-7bf2c3eae224" name="Default Changelist" comment="" />
+      <created>1565855360401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565855360401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Project" order="1" sideWeight="0.49813432" visible="true" weight="0.24394184" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" sideWeight="0.5018657" side_tool="true" visible="true" weight="0.24394184" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.38630137" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.26575342" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info active="true" anchor="right" id="Fabric" order="4" visible="true" weight="0.32997313" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="135" column="57" selection-start-line="135" selection-start-column="57" selection-end-line="135" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

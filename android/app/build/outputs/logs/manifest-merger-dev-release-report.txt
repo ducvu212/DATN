@@ -1,0 +1,563 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [:react-native-permissions] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-cardview] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-cardview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-touch-id] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-touch-id/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-image-resizer] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-image-resizer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:2:1-52:12
+MERGED from [:react-native-splash-screen] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:@react-native-community_async-storage] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-config] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-navigation] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-fast-image] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-reflow-animator-1.0.4.aar/22a4a0d40293951fe612ada81e9087bb/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-keychain] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-background-timer] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:@react-native-community_cameraroll] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:2:1-18:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/b695f8f179fe9a1affd2dc6ad7b1d58c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-3.0.2.aar/78fe61e13b74d99a6c0ec2722bbbb3f5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha08.aar/393cdbdfde1b747f44e46bfe043f7a3e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/771aaecd4f9d1c3e53d652f5ee153a54/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/b1cd7aba0fb7dec0fdcbfbbabd611012/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-base-support-1.3.0.aar/af9283c65597da71d8e93485f01ab337/AndroidManifest.xml:2:1-9:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/ec5f9f4ed5ecfa081627667eaa151da2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7249d2851c13f28097f6820d4c318ad0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.9.0.aar/90479a9208e276605f4f595f286d66e3/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/64b1d8802113623ba031c3a57eb0fbd5/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/771fc6b16f7bff0dd8aba5cd5fe3d4c2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8726074c8253ac901320f977579729f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1be9b941f104d92261b57686a3b1c23c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1833bf3ea55c6d10f5163226b07349bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/bab94a36b5b983451c6e4ba05fc2e6e3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/09cff4b4b26241f7ef169fc38f365b98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-beta01.aar/6ec743b3151508d59dfe051ace724b59/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/706afebb5c6a9e997b230cbc2b1d1cd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/2ed9bc50997a2344f4dea86a0e78ce6b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/e19f82fb0181056f773650d8d05c2d8c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/040d6fb3875de1e24eb712072c3bad59/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/97aba3f8428b23f078fd038f398816ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8359ef30df8a6d7371b9347eec20091c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha06.aar/a5ab13d1ce0d7913dee4d85b84383b5f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/974d0f1ef9aeffb20cb6a634ad04c260/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/243764cb7555ed9e3fbba45b67f6b954/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/2bad19a1662352beef063040743af036/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/d256135e74a2d4e019b2403a843b5a68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/ff440003f843e4d6c2c52efbec9a520c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f4e8556d89558dc45dae97891f56e7ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/8d5dc6fc2e80bb39b684a1e2d468c2ff/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/10fba54128c729f74eac79c7318497ae/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c449b537d02c3ef9fa7ca8a074d0ce0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2b2be741c60f2f23ede6a90ed9450d3b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/27a83e411bee7dcb330cf7921d00d0c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/ec5c43a1b5511572334e83b2cbb1a9ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/2386236367c73ffaa2d8731798d28028/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6f1141c085d53b813b42bcfeb6cd9331/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/70596b78d1122ed4cb4f9893477502bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-beta01.aar/8fc417fb0a0c99d5893e613c66f62fd8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/256e6db51885ffc92fd535f641d7073c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2d848ce45f5da1e354124c52bc1369f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/bf0fac4c10ceb6820e01b6dccacfe323/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c9f2c5a7205b29d84f80eca6b87d3f7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/889712e4987d930f01d5c716e1299480/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-1.2.0-alpha01.aar/3301de22ecb8c326114a019b453107fb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-beta01.aar/8032e5f1c5657baeff047bb8a603258d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f08cda8a9e99cddabe449f074cc18e5c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/66586517f9fe068ed403659330c1cbb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a369bc7a0e18f3d2c5abca600d7229b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/0d4f258773e42905b31f19fd35fbed18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/eda81861777f5471db567602446c9200/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/4fc4c98516560f5f554b50a2f01cf8b6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/8b93a5c2e3b2a5c5a92dffd48b7eb1aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/719ec155ccdbd8145f3457a7d6ef2d37/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/092f6d460c7ccc2479e74bb36e7bbfe2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-animated-drawable-1.10.0.aar/1af4a76d5c82956431b9c25857d192b2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/d1c3c1ed73b37c311b868e78ae40907e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/5525c526d32f59fde0c8ee98392af101/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c7604efd067d1811f4f53167470da935/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/c252111d90dc229971d10ac34e61d696/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/8d7ccfe1b793374e99a31a52abae638a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7f53971ffbb9425feb56a8deca16c177/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/b2972dc0afc07ceec8755bb931783279/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/6ec71a47f65f77b6439ea74d60f7b0d7/AndroidManifest.xml:7:1-16:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/d91882eacd2a7e598abef7a15d7cdf43/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:3:5-27
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:1-42:12
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:10:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:15:5-40:19
+MERGED from [:react-native-splash-screen] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-navigation] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/b695f8f179fe9a1affd2dc6ad7b1d58c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/b695f8f179fe9a1affd2dc6ad7b1d58c/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-3.0.2.aar/78fe61e13b74d99a6c0ec2722bbbb3f5/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-3.0.2.aar/78fe61e13b74d99a6c0ec2722bbbb3f5/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha08.aar/393cdbdfde1b747f44e46bfe043f7a3e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha08.aar/393cdbdfde1b747f44e46bfe043f7a3e/AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.9.0.aar/90479a9208e276605f4f595f286d66e3/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.9.0.aar/90479a9208e276605f4f595f286d66e3/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/64b1d8802113623ba031c3a57eb0fbd5/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/64b1d8802113623ba031c3a57eb0fbd5/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/771fc6b16f7bff0dd8aba5cd5fe3d4c2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/771fc6b16f7bff0dd8aba5cd5fe3d4c2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/bab94a36b5b983451c6e4ba05fc2e6e3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/bab94a36b5b983451c6e4ba05fc2e6e3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/974d0f1ef9aeffb20cb6a634ad04c260/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/974d0f1ef9aeffb20cb6a634ad04c260/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/243764cb7555ed9e3fbba45b67f6b954/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/243764cb7555ed9e3fbba45b67f6b954/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/2bad19a1662352beef063040743af036/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/2bad19a1662352beef063040743af036/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/ff440003f843e4d6c2c52efbec9a520c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/ff440003f843e4d6c2c52efbec9a520c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f4e8556d89558dc45dae97891f56e7ce/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f4e8556d89558dc45dae97891f56e7ce/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/8d5dc6fc2e80bb39b684a1e2d468c2ff/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/8d5dc6fc2e80bb39b684a1e2d468c2ff/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-1.2.0-alpha01.aar/3301de22ecb8c326114a019b453107fb/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-1.2.0-alpha01.aar/3301de22ecb8c326114a019b453107fb/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-beta01.aar/8032e5f1c5657baeff047bb8a603258d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-beta01.aar/8032e5f1c5657baeff047bb8a603258d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7f53971ffbb9425feb56a8deca16c177/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7f53971ffbb9425feb56a8deca16c177/AndroidManifest.xml:11:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/b2972dc0afc07ceec8755bb931783279/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/b2972dc0afc07ceec8755bb931783279/AndroidManifest.xml:12:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0-alpha01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-1.2.0-alpha01.aar/3301de22ecb8c326114a019b453107fb/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:19:9-49
+		REJECTED from [:react-native-splash-screen] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:18-50
+	android:hardwareAccelerated
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:24:9-44
+	android:roundIcon
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:20:9-54
+	android:largeHeap
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:22:9-33
+	android:icon
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:17:9-36
+	android:theme
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:21:9-40
+	tools:replace
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:25:9-38
+	android:usesCleartextTraffic
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:23:9-44
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.ekyc.app.MainActivity
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:26:9-38:20
+	android:screenOrientation
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:29:13-53
+	android:launchMode
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:31:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:32:13-55
+	android:configChanges
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:28:13-83
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:27:13-41
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:35:27-74
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:36:25-79
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:39:9-86
+MERGED from [:react-native-navigation] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:12:9-14:40
+MERGED from [:react-native-navigation] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:react-native-navigation] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml:39:19-83
+uses-sdk
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-permissions] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-cardview] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-cardview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-cardview] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-cardview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-touch-id] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-touch-id/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-touch-id] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-touch-id/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-resizer] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-image-resizer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-resizer] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-image-resizer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-config/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative60Release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-reflow-animator-1.0.4.aar/22a4a0d40293951fe612ada81e9087bb/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-reflow-animator-1.0.4.aar/22a4a0d40293951fe612ada81e9087bb/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-keychain] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keychain] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_cameraroll] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_cameraroll] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/@react-native-community/cameraroll/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/b695f8f179fe9a1affd2dc6ad7b1d58c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.2.aar/b695f8f179fe9a1affd2dc6ad7b1d58c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-3.0.2.aar/78fe61e13b74d99a6c0ec2722bbbb3f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:3.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-3.0.2.aar/78fe61e13b74d99a6c0ec2722bbbb3f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha08.aar/393cdbdfde1b747f44e46bfe043f7a3e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha08] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha08.aar/393cdbdfde1b747f44e46bfe043f7a3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/771aaecd4f9d1c3e53d652f5ee153a54/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-rc01.aar/771aaecd4f9d1c3e53d652f5ee153a54/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/b1cd7aba0fb7dec0fdcbfbbabd611012/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-gif-1.10.0.aar/b1cd7aba0fb7dec0fdcbfbbabd611012/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-base-support-1.3.0.aar/af9283c65597da71d8e93485f01ab337/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base-support:1.3.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-base-support-1.3.0.aar/af9283c65597da71d8e93485f01ab337/AndroidManifest.xml:5:5-7:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/ec5f9f4ed5ecfa081627667eaa151da2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/ec5f9f4ed5ecfa081627667eaa151da2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7249d2851c13f28097f6820d4c318ad0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/7249d2851c13f28097f6820d4c318ad0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.9.0.aar/90479a9208e276605f4f595f286d66e3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.9.0.aar/90479a9208e276605f4f595f286d66e3/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/64b1d8802113623ba031c3a57eb0fbd5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/64b1d8802113623ba031c3a57eb0fbd5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/771fc6b16f7bff0dd8aba5cd5fe3d4c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/771fc6b16f7bff0dd8aba5cd5fe3d4c2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8726074c8253ac901320f977579729f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/exifinterface-1.0.0.aar/8726074c8253ac901320f977579729f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1be9b941f104d92261b57686a3b1c23c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/1be9b941f104d92261b57686a3b1c23c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1833bf3ea55c6d10f5163226b07349bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/1833bf3ea55c6d10f5163226b07349bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/bab94a36b5b983451c6e4ba05fc2e6e3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-stats-17.0.0.aar/bab94a36b5b983451c6e4ba05fc2e6e3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/09cff4b4b26241f7ef169fc38f365b98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/09cff4b4b26241f7ef169fc38f365b98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-beta01.aar/6ec743b3151508d59dfe051ace724b59/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-beta01.aar/6ec743b3151508d59dfe051ace724b59/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/706afebb5c6a9e997b230cbc2b1d1cd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/706afebb5c6a9e997b230cbc2b1d1cd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/2ed9bc50997a2344f4dea86a0e78ce6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-rc01.aar/2ed9bc50997a2344f4dea86a0e78ce6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/e19f82fb0181056f773650d8d05c2d8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0-rc01.aar/e19f82fb0181056f773650d8d05c2d8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/040d6fb3875de1e24eb712072c3bad59/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-rc01.aar/040d6fb3875de1e24eb712072c3bad59/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/97aba3f8428b23f078fd038f398816ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/97aba3f8428b23f078fd038f398816ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8359ef30df8a6d7371b9347eec20091c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8359ef30df8a6d7371b9347eec20091c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha06.aar/a5ab13d1ce0d7913dee4d85b84383b5f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha06] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha06.aar/a5ab13d1ce0d7913dee4d85b84383b5f/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/974d0f1ef9aeffb20cb6a634ad04c260/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/974d0f1ef9aeffb20cb6a634ad04c260/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/243764cb7555ed9e3fbba45b67f6b954/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-vision-common-17.0.2.aar/243764cb7555ed9e3fbba45b67f6b954/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/2bad19a1662352beef063040743af036/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-clearcut-16.0.0.aar/2bad19a1662352beef063040743af036/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/d256135e74a2d4e019b2403a843b5a68/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/d256135e74a2d4e019b2403a843b5a68/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/ff440003f843e4d6c2c52efbec9a520c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-phenotype-16.0.0.aar/ff440003f843e4d6c2c52efbec9a520c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f4e8556d89558dc45dae97891f56e7ce/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-17.0.0.aar/f4e8556d89558dc45dae97891f56e7ce/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/8d5dc6fc2e80bb39b684a1e2d468c2ff/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/8d5dc6fc2e80bb39b684a1e2d468c2ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/10fba54128c729f74eac79c7318497ae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-rc01.aar/10fba54128c729f74eac79c7318497ae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c449b537d02c3ef9fa7ca8a074d0ce0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c449b537d02c3ef9fa7ca8a074d0ce0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2b2be741c60f2f23ede6a90ed9450d3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/2b2be741c60f2f23ede6a90ed9450d3b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/27a83e411bee7dcb330cf7921d00d0c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/27a83e411bee7dcb330cf7921d00d0c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/ec5c43a1b5511572334e83b2cbb1a9ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/ec5c43a1b5511572334e83b2cbb1a9ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/2386236367c73ffaa2d8731798d28028/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/2386236367c73ffaa2d8731798d28028/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6f1141c085d53b813b42bcfeb6cd9331/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/6f1141c085d53b813b42bcfeb6cd9331/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/70596b78d1122ed4cb4f9893477502bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/70596b78d1122ed4cb4f9893477502bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-beta01.aar/8fc417fb0a0c99d5893e613c66f62fd8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-beta01.aar/8fc417fb0a0c99d5893e613c66f62fd8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/256e6db51885ffc92fd535f641d7073c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/256e6db51885ffc92fd535f641d7073c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2d848ce45f5da1e354124c52bc1369f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/2d848ce45f5da1e354124c52bc1369f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/bf0fac4c10ceb6820e01b6dccacfe323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/bf0fac4c10ceb6820e01b6dccacfe323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c9f2c5a7205b29d84f80eca6b87d3f7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c9f2c5a7205b29d84f80eca6b87d3f7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/889712e4987d930f01d5c716e1299480/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-rc01.aar/889712e4987d930f01d5c716e1299480/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-1.2.0-alpha01.aar/3301de22ecb8c326114a019b453107fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0-alpha01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-1.2.0-alpha01.aar/3301de22ecb8c326114a019b453107fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-beta01.aar/8032e5f1c5657baeff047bb8a603258d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-beta01.aar/8032e5f1c5657baeff047bb8a603258d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f08cda8a9e99cddabe449f074cc18e5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/f08cda8a9e99cddabe449f074cc18e5c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/66586517f9fe068ed403659330c1cbb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/66586517f9fe068ed403659330c1cbb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a369bc7a0e18f3d2c5abca600d7229b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a369bc7a0e18f3d2c5abca600d7229b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/0d4f258773e42905b31f19fd35fbed18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-rc01.aar/0d4f258773e42905b31f19fd35fbed18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/eda81861777f5471db567602446c9200/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-rc01.aar/eda81861777f5471db567602446c9200/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/4fc4c98516560f5f554b50a2f01cf8b6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-rc01.aar/4fc4c98516560f5f554b50a2f01cf8b6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/8b93a5c2e3b2a5c5a92dffd48b7eb1aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/8b93a5c2e3b2a5c5a92dffd48b7eb1aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/719ec155ccdbd8145f3457a7d6ef2d37/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/719ec155ccdbd8145f3457a7d6ef2d37/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/092f6d460c7ccc2479e74bb36e7bbfe2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/animated-base-1.10.0.aar/092f6d460c7ccc2479e74bb36e7bbfe2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-animated-drawable-1.10.0.aar/1af4a76d5c82956431b9c25857d192b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-animated-drawable-1.10.0.aar/1af4a76d5c82956431b9c25857d192b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/d1c3c1ed73b37c311b868e78ae40907e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/d1c3c1ed73b37c311b868e78ae40907e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/5525c526d32f59fde0c8ee98392af101/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/5525c526d32f59fde0c8ee98392af101/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c7604efd067d1811f4f53167470da935/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/c7604efd067d1811f4f53167470da935/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/c252111d90dc229971d10ac34e61d696/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/c252111d90dc229971d10ac34e61d696/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/8d7ccfe1b793374e99a31a52abae638a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/8d7ccfe1b793374e99a31a52abae638a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7f53971ffbb9425feb56a8deca16c177/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/7f53971ffbb9425feb56a8deca16c177/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/b2972dc0afc07ceec8755bb931783279/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/b2972dc0afc07ceec8755bb931783279/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/6ec71a47f65f77b6439ea74d60f7b0d7/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.conceal:conceal:1.1.3] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/conceal-1.1.3.aar/6ec71a47f65f77b6439ea74d60f7b0d7/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/d91882eacd2a7e598abef7a15d7cdf43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/d91882eacd2a7e598abef7a15d7cdf43/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tran.ngoc.nam/Desktop/Duc/uc/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [:react-native-touch-id] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-touch-id/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-keychain] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-74
+MERGED from [:react-native-keychain] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-keychain/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [:react-native-touch-id] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-touch-id/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-71
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/a4a3b1597e9383e7d35b9ed1d1172ed7/AndroidManifest.xml:50:22-86
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:25-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-background-timer] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:react-native-background-timer] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-65
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/tran.ngoc.nam/Desktop/Duc/uc/node_modules/react-native-camera/android/build/intermediates/library_manifest/generalRelease/AndroidManifest.xml:15:9-57
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.9.0.aar/90479a9208e276605f4f595f286d66e3/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.9.0.aar/90479a9208e276605f4f595f286d66e3/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-okhttp3-integration-4.9.0.aar/90479a9208e276605f4f595f286d66e3/AndroidManifest.xml:12:13-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-iid-17.0.0.aar/0377a3bce92668e32bdff778665de2ea/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/play-services-base-17.0.0.aar/9584cc076627f0191723fcca6a955f0e/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/8d5dc6fc2e80bb39b684a1e2d468c2ff/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/8d5dc6fc2e80bb39b684a1e2d468c2ff/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/tran.ngoc.nam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-17.0.0.aar/8d5dc6fc2e80bb39b684a1e2d468c2ff/AndroidManifest.xml:24:13-58

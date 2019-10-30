@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://tasuki-project.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">821551838567</string>
+    <string name="google_api_key" translatable="false">AIzaSyBysOzowUcnFa3H9T80y8GUBeDCOiHRLPE</string>
+    <string name="google_app_id" translatable="false">1:821551838567:android:adcb6a4a88096f58</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBysOzowUcnFa3H9T80y8GUBeDCOiHRLPE</string>
+    <string name="google_storage_bucket" translatable="false">tasuki-project.appspot.com</string>
+    <string name="project_id" translatable="false">tasuki-project</string>
+</resources>
